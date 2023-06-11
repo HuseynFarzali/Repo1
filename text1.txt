@@ -1,2 +1,3 @@
 First line -- a + b;
 Second line -- a - b;
+Third line -- a * b;
